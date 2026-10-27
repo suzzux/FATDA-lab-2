@@ -1,1 +1,3 @@
-# FATDA-lab-2
+# FATDA Lab 2
+Name: Oleksandr Serpovych Liubomyrovych
+Group: KM-41
